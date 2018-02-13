@@ -1,0 +1,198 @@
+.nav
+{
+	width: 100%;
+	background : #000033;
+	height : 100px;
+	margin-top : 40px;
+	opacity : 0.5;
+}
+.container
+{
+	width : 600px;
+	margin : 0 auto;
+	text-align : center;
+}
+.button {
+    background-color: #FFFFFF; 
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button1 {
+    background-color: #16a085; 
+    color: white; 
+    border: 2px solid #16a085;
+	border-radius: 12px;
+}
+
+.button1:hover {
+    background-color: #FFFFFF;
+    color: #16a085;
+}
+.button4 {
+    background-color: #000F55; 
+    color: white; 
+    border: 2px solid #000F55;
+	border-radius: 12px;
+	opacity :0.6;
+}
+
+.button4:hover {
+    background-color: #FFFFFF;
+    color: #000F55;
+	opacity : 0.6;
+}
+.icons
+{
+	margin : 0 auto;
+	text-align : center;
+	padding: 16px 32px;
+	margin-right=1000px;
+}
+.myform
+{
+	width : 450px;
+	margin: 0 auto;
+}
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: #000033;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 20%;
+	opacity : 0.9;
+}
+
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.modal1 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 90%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal1-content {
+    background-color: #000033;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 40%;
+	opacity : 0.9;
+}
+
+/* The Close Button */
+.close1 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.Avatar
+{
+	width: 150px;
+	text-align : center;
+	border-radius : 50%;
+}
+.avatarlogin
+{
+	width: 50px;
+	text-align : center;
+	border-radius : 10%;
+	margin-left : 30px;
+	margin-right : 30px;
+}
+.inputvalues
+{
+	width: 100%;
+    padding: 12px 20px;
+    margin: 2px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #3CBC8D;
+    color: white;
+}
+.heading
+{
+	color: white;
+}
+.txtarea
+{
+	color: #000000;
+	font: 900 20px 'Poiret One', cursive;
+}
+.prompt
+{
+	color: #FFFFFF;
+	font: 900 20px 'Poiret One', cursive;
+}
+.dropdown
+{
+	width: 50%;
+    padding: 12px 20px;
+    margin: 2px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #000033;
+    color: white;
+	opacity : 0.5;
+}
+.profilepicture
+{
+	text-align : center;
+	border-radius : 10%;
+	margin-left : 30px;
+	margin-right : 30px;
+	margin-top : 30px;
+}
